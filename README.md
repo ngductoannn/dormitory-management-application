@@ -117,7 +117,6 @@ erDiagram
 
 Mở Terminal và chạy lệnh:
 ```bash
-cd /Users/tranhoang/.gemini/antigravity/scratch/student-management-app
-python3 main.py
+cd.....python3 main.py
 ```
 *(Hoặc dùng lệnh `open /Users/tranhoang/.gemini/antigravity/scratch/student-management-app` để mở thư mục trong Finder)*
